@@ -2,7 +2,7 @@ body,
 html{
 	width:100%;
 	height:100%;
-   background: url(st.jpg) no-repeat center center fixed; 
+   background: url(ev.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -10,17 +10,19 @@ html{
 }
 
 
+
 h1{
 	font-size: 3rem;
-	color:white; 
+	color:black; 
 }
 
 hr {
- background-color:#770E0B;
+ background-color:#353535;
  border-width:3px;
  max-width:65px;
 
 } 
+
 
 .buffer{
 	height: 5rem;
@@ -34,14 +36,14 @@ hr {
 }
 
 .btn-info{
-	background-color:#662523;
-	border-color:#662523;
+	background-color:#353535;
+	border-color:#353535;
 
 }
 
 .btn-info:hover{
-	background-color:#770E0B;
-	border-color:#770E0B;
+	background-color:#696969;
+	border-color:#696969;
 		border-width: 4px;  
 
 }
